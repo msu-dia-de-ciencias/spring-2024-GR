@@ -1,5 +1,5 @@
 ---
-title: "Diagnosing Island Supplemental Material"
+title: "dia-de-ciencias-2023"
 author: "Jose Guadalupe Hernandez"
 github-repo:  jgh9094/dia-de-ciencias-2023
 description: "Web page for more information for the Dia De Ciencias event hosted by the Society of Hispanic Professional Engineers (SHPE) chapter at Michigan State Univeristy."
@@ -12,6 +12,8 @@ We welcome students from 7th - 10th grade to come particiapte in a number of STE
 While the students are participating in activities, seminars will be hosted for  parents and chaperones to learn about college/STEM related topics.
 
 ![Event](./Imgs/dia-de-ciencias-flyer.jpg)
+
+[download flyer here](./Imgs/dia-de-ciencias-flyer.jpg)
 
 # Sign up
 
