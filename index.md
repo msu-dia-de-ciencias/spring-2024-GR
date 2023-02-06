@@ -7,6 +7,23 @@ description: "Web page for more information for the Dia De Ciencias event hosted
 
 # Dia De Ciencias
 
-The [Society of Hispanic Professional Engineers (SHPE)](https://www.egr.msu.edu/studentgroups/society-hispanic-professional-engineers-shpe) at Michigan State University will be hosting a Dia de Ciencias on **March 25 from 12:00pm - 4:00pm** in the [College of Engineering](https://www.egr.msu.edu/) at Michigan State Unviersity. We welcome students from 7th - 10th grade to com particiapte in a number of STEM activities led by students and faculty. While the students are participating in activities, seminars will be hosted for  parents and chaperones to learn about college/STEM related topics.
+The [Society of Hispanic Professional Engineers (SHPE)](https://www.egr.msu.edu/studentgroups/society-hispanic-professional-engineers-shpe) at Michigan State University will be hosting a Dia de Ciencias on **March 25 from 12:00pm - 4:00pm** in the [College of Engineering](https://www.egr.msu.edu/) at Michigan State Unviersity.
+We welcome students from 7th - 10th grade to come particiapte in a number of STEM activities led by students and faculty.
+While the students are participating in activities, seminars will be hosted for  parents and chaperones to learn about college/STEM related topics.
 
 ![Event](./Imgs/dia-de-ciencias-flyer.jpg)
+
+# Sign up
+
+To register a student for this event, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScq0rwbPeqSQJWCn42HI3EZHU5IPaTW4PS-9tmat7FNv_jfww/viewform).
+
+# Volunteers
+
+For MSU students wanting to help with this event, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeE-FB6JSl1ySsEUaVx69DP0vD7dv-_TUZhxpFylovAFiFpTA/viewform).
+
+# Contact
+
+To get more information for this event.
+Please contact:
+- [Teresa Isela VanderSloot](https://www.egr.msu.edu/people/profile/iselava1) at <iselava1@msu.edu>
+- [Jose Guadalupe Hernandez](https://jgh9094.github.io/) at <jgh9094@gmail.com>.
