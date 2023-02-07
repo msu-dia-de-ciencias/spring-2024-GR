@@ -22,7 +22,8 @@ Once all required forms are signed, please submit them on our [registration form
 
 # Volunteers
 
-For MSU students wanting to help with this event, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeE-FB6JSl1ySsEUaVx69DP0vD7dv-_TUZhxpFylovAFiFpTA/viewform).
+For MSU students and activity leaders wanting to help with this event, please download and sign the required forms for the event [here](./Forms/dia-de-ciencias-cbc.pdf).
+Once the form is filled and signed, please submit them on our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeE-FB6JSl1ySsEUaVx69DP0vD7dv-_TUZhxpFylovAFiFpTA/viewform).
 
 # Contact
 
