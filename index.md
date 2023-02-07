@@ -17,7 +17,8 @@ While the students are participating in activities, seminars will be hosted for 
 
 # Sign up
 
-To register a student for this event, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLScq0rwbPeqSQJWCn42HI3EZHU5IPaTW4PS-9tmat7FNv_jfww/viewform).
+To register a student for this event, please download and sign the required forms for the event [here](./Forms/parent-consent-medical-media-forms.pdf).
+Once all required forms are signed, please submit them on our [registration form](https://docs.google.com/forms/d/e/1FAIpQLScq0rwbPeqSQJWCn42HI3EZHU5IPaTW4PS-9tmat7FNv_jfww/viewform).
 
 # Volunteers
 
