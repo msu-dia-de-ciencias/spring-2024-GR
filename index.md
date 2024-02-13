@@ -20,7 +20,7 @@ Once the form is filled and signed, please submit them on our [registration form
 
 To get more information for this event.
 Please contact:
-- [Teresa Isela VanderSloot] at <iselava1@msu.edu>
-- [Jessika Ruby Hernandez] at <herna679@msu.edu>
+- Teresa Isela VanderSloot at <iselava1@msu.edu>
+- Jessika Ruby Hernandez at <herna679@msu.edu>
 <!-- - [Teresa Isela VanderSloot](https://www.egr.msu.edu/people/profile/iselava1) at <iselava1@msu.edu> -->
 <!-- - [Jose Guadalupe Hernandez](https://jgh9094.github.io/) at <jgh9094@gmail.com>. -->
