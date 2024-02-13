@@ -1,8 +1,8 @@
 ---
 title: "dia-de-ciencias-2023"
-author: "Jose Guadalupe Hernandez"
-github-repo:  jgh9094/dia-de-ciencias-2023
-description: "Web page for more information for the Dia De Ciencias event hosted by the Society of Hispanic Professional Engineers (SHPE) chapter at Michigan State Univeristy."
+author: "MSU Dia De Ciencias"
+github-repo:  msu-dia-de-ciencias/spring-2024-GR
+description: "Web page for more information for the Dia De Ciencias event hosted by MSU K-12 outreach at Grand Rapids, Michigan."
 ---
 
 # Dia De Ciencias
@@ -10,10 +10,6 @@ description: "Web page for more information for the Dia De Ciencias event hosted
 The [Society of Hispanic Professional Engineers (SHPE)](https://www.egr.msu.edu/studentgroups/society-hispanic-professional-engineers-shpe) at Michigan State University will be hosting a Dia de Ciencias on **April 14 from 9:00am - 1:00pm** in the [College of Engineering](https://www.egr.msu.edu/) at Michigan State Unviersity.
 We welcome students from 7th - 10th grade to come particiapte in a number of STEM activities led by students and faculty.
 While the students are participating in activities, seminars will be hosted for  parents and chaperones to learn about college/STEM related topics.
-
-![Event](./Imgs/dia-de-ciencias-flyer.jpg)
-
-[download flyer here](./Imgs/dia-de-ciencias-flyer.jpg)
 
 # Student Participant Sign up
 
