@@ -11,7 +11,7 @@ The [Broadening Participation K-12 ]([https://www.egr.msu.edu/studentgroups/soci
 Students will have an opportunity to particiapte in a number of STEM activities led by MSU students. 
 
 
-![Event](./Imgs/dia-de-ciencias-flyer.jpg)
+![Event](./Imgs/2024dia-de-ciencias-flyer.jpg)
 
 [download flyer here](./Imgs/2024dia-de-ciencias-flyer.jpg)
 
