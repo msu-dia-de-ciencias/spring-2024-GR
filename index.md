@@ -22,6 +22,5 @@ To get more information for this event.
 Please contact:
 - <iselava1@msu.edu>
 - <herna679@msu.edu>
-- 
 <!-- - [Teresa Isela VanderSloot](https://www.egr.msu.edu/people/profile/iselava1) at <iselava1@msu.edu> -->
 <!-- - [Jose Guadalupe Hernandez](https://jgh9094.github.io/) at <jgh9094@gmail.com>. -->
