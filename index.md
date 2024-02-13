@@ -14,7 +14,7 @@ While the students are participating in activities, seminars will be hosted for 
 # Student Participant Sign up
 
 To register a student for this event, please download and sign the required forms for the event [here](./Forms/parent-consent-medical-media-forms.pdf).
-Once all required forms are signed, please submit them on our [registration form](https://docs.google.com/forms/d/e/1FAIpQLScq0rwbPeqSQJWCn42HI3EZHU5IPaTW4PS-9tmat7FNv_jfww/viewform).
+Once all required forms are signed, please submit them on our [registration form](https://forms.gle/5JZKaXq9Q9x5AZku9).
 **Registration will be open until April 1st or participant capacity is reached.**
 
 # Volunteers
