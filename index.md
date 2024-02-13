@@ -13,7 +13,7 @@ Students will have an opportunity to particiapte in a number of STEM activities 
 
 ![Event](./Imgs/dia-de-ciencias-flyer.jpg)
 
-[download flyer here](./Imgs/dia-de-ciencias-flyer.png)
+[download flyer here](./Imgs/2024dia-de-ciencias-flyer.jpg)
 
 
 # Volunteers
