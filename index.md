@@ -1,9 +1,10 @@
 ---
 title: "Dia De Ciencias"
 author: "MSU Dia De Ciencias"
-github-repo:  msu-dia-de-ciencias/spring-2024-GR
 description: "Web page for more information for the Dia De Ciencias event hosted by MSU K-12 outreach at Grand Rapids, Michigan."
 ---
+
+# Dia De Ciencias
 
 The [Broadening Participation K-12 ](https://engineering.msu.edu/about/inclusion-diversity/broadening-participation-k-12) at Michigan State University will be hosting a Dia de Ciencias on **March 22, 2024 from 11:00a.m-5p.m** at SouthWest Elementary School in Grand Rapids, MI.
 Students will have an opportunity to particiapte in a number of STEM activities led by MSU students. 
