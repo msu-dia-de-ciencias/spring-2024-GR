@@ -1,5 +1,5 @@
 ---
-title: "dia-de-ciencias-2023"
+title: "dia-de-ciencias-2024"
 author: "MSU Dia De Ciencias"
 github-repo:  msu-dia-de-ciencias/spring-2024-GR
 description: "Web page for more information for the Dia De Ciencias event hosted by MSU K-12 outreach at Grand Rapids, Michigan."
