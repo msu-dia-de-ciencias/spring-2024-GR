@@ -6,7 +6,7 @@ description: "Web page for more information for the Dia De Ciencias event hosted
 
 # MSU STEM Day
 
-The [Broadening Participation K-12 ](https://engineering.msu.edu/about/inclusion-diversity/broadening-participation-k-12) at Michigan State University will be hosting a STEM Day on **March 22, 2024 from 11:00a.m-5p.m** at SouthWest Elementary School in Grand Rapids, MI.
+The [Broadening Participation K-12 ](https://engineering.msu.edu/about/inclusion-diversity/broadening-participation-k-12) at Michigan State University will be hosting a STEM Day on **March 22, 2024 from 11:00a.m-5:30p.m** at SouthWest Elementary School in Grand Rapids, MI.
 Students will have an opportunity to particiapte in a number of STEM activities led by MSU students. 
 
 
