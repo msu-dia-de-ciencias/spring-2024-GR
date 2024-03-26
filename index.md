@@ -10,7 +10,7 @@ The [Broadening Participation K-12 ](https://engineering.msu.edu/about/inclusion
 Students will have an opportunity to particiapte in a number of STEM activities led by MSU students. 
 
 
-![Event](./Imgs/msu-stem-day-flyer.jpg)
+![Event](./Imgs/gr-msu-stem-day-flyer.pdf)
 
 [download flyer here](./Imgs/gr-msu-stem-day-flyer.pdf)
 
