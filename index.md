@@ -12,7 +12,7 @@ Students will have an opportunity to particiapte in a number of STEM activities 
 
 ![Event](./Imgs/msu-stem-day-flyer.jpg)
 
-[download flyer here](./Imgs/msu-stem-day-flyer.jpg)
+[download flyer here](./Imgs/gr-msu-stem-day-flyer.pdf)
 
 
 # Volunteers
