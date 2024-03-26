@@ -18,7 +18,7 @@ Students will have an opportunity to particiapte in a number of STEM activities 
 # Volunteers
 
 For MSU students and activity leaders wanting to help with this event, please download and sign the required criminal background check for the event [here](./Forms/msu-stem-day-cbc.pdf).
-Once the form is filled and signed, please submit them on our [registration/volunteer form](https://forms.gle/bBoTMffCMLHMzrSu9).
+Once the form is filled and signed, please submit it on our [registration/volunteer form](https://forms.gle/bBoTMffCMLHMzrSu9).
 
 # Contact
 
